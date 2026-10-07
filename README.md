@@ -1,8 +1,3 @@
-Here’s your **complete README.md** with the screenshot paths properly added so they’ll render inline on GitHub:
-
----
-
-```markdown
 # QuickNotes App — Project 1
 
 ## 📌 Description
